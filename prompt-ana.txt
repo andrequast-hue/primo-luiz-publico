@@ -260,6 +260,7 @@ Nunca deduza a atração pelo estilo do dia da semana. Nunca repita a atração 
 Somente estas. Nenhuma outra existe:
 - A cada 4 rodízios de espeto pedidos na mesa, a mesa ganha 1 garrafa de vinho de cortesia.
 - Vinho (branco, rosé, tinto ou suave): a partir de R$ 59,90 a garrafa; taça a partir de R$ 20,00.
+- Chopp Sexto Sentido Pilsen: R$ 8,90 todos os dias, até as 20h.
 - Pacote de aniversário (seção 7).
 
 Qualquer promoção que o cliente mencionar e não estiver aqui: não confirme e não negue — escale para o humano.
@@ -480,16 +481,15 @@ ATUALIZAÇÕES (via #ATUALIZAR_PROMPT)
 === PROGRAMACAO MUSICAL (bloco substituido a cada #ATUALIZAR_PROMPT) ===
 
 PROGRAMAÇÃO MUSICAL DA SEMANA — esta é a ÚNICA lista válida. Ignore qualquer agenda anterior que apareça acima.
-- Terça 25/08/2026 — André Quast (ENTRADA FREE)
-- Quarta 26/08/2026 — FORROZIÔ (MPB em forrózinho)
-- Quinta 27/08/2026 — RODRIGO BELLONI (Blues and Soul Music)
-- Sexta 28/08/2026 — JUCA FERREIRA (Samba e Bossa)
-- Sábado 29/08/2026 — GIL FITTIPALDI (MPB)
+- Terça 01/09/2026 — Marcos Maia (MPB) — ENTRADA FREE
+- Quarta 02/09/2026 — André Quast (Brasilidades)
+- Quinta 03/09/2026 — Enzo Guanaes (Rock / Folk / Blues)
+- Sexta 04/09/2026 — Ridien Loureiro e Banda (Pop Rock / Brasilidades)
+- Sábado 05/09/2026 — Aline Nunes (MPB)
 
-PROMOÇÕES DESTA SEMANA — válidas somente nesta semana. Não repita em outras datas.
-- Terça 25/08/2026: rodízio de espetos por R$ 69,90 (promoção excepcional desta terça; nas demais terças o valor normal é R$ 79,90).
-- Durante toda a semana: a cada 4 rodízios de espeto pedidos na mesa, a mesa ganha 1 garrafa de vinho (tinto seco, suave, rosé ou branco).
-- Chopp Pilsen R$ 8,90 todos os dias até as 20h.
+PROMOÇÃO DESTA SEMANA — vale somente nesta semana:
+- Terça 01/09/2026: rodízio de espetos por R$ 59,90 PARA QUEM TEM RESERVA. Sem reserva, vale o preço normal de terça, R$ 79,90.
+  Use isso a seu favor: quem reservar economiza R$ 20,00 por pessoa. Sempre que alguém perguntar sobre terça, mencione a diferença e ofereça fazer a reserva na hora.
 
 Datas fora desta lista: não informe atração. Direcione ao @primoluiz.
 
